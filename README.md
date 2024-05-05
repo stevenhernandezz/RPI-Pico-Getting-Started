@@ -2,7 +2,7 @@
  This project is used to get familiar with Raspberry Pi Pico microcontroller using CPP programming language. It focuses on using on-board peripherals and simulating common embedded systems tasks.
  
 ## Description
- This lab contains four parts which are:
+This project contains four parts which are:
  
  * Hello World: Creating a simple "Hello World" program on the Raspberry Pi Pico using standard stdio types.
  * Blink LED: Blink an on board or external LED using General Purpose Input/Output) GPIO pins on the Raspberry Pi Pico.
